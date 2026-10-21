@@ -1,0 +1,7 @@
+[2026-10-21T21:34:29Z] === AST ITERATION 1 START | repo=glue-viz/glue-specviz sha=3fa33fda ===
+[2026-10-21T21:34:29Z] [iter=1] PHASE START: ast repo=glue-viz/glue-specviz sha=3fa33fda
+[2026-10-21T21:34:29Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T21:34:30Z] [iter=1] AST chunks built count=1 triples=13071
+[2026-10-21T21:34:30Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/3fa33fda16e07c312248c497a093fe2e42cbe717/.complete
+[2026-10-21T21:34:30Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-21T21:34:31Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
